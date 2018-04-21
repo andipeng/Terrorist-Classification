@@ -1,4 +1,4 @@
-# An Integrated Machine Learning Approach To Studying Terrorism
+# An Integrated Machine Learning Approach to Studying Terrorism
 
 This project investigates an integrated machine learning ap-proach for classification and analysis of global terrorist activity. 
 
