@@ -1,0 +1,909 @@
+actor_id,gwnoa,coalition_components,actor_name,year,best_fatality_estimate,low_fatality_estimate,high_fatality_estimate,is_government_actor,location,gwno_location,region,version
+6,41,,Government of Haiti,1991,70,70,296,1,Haiti,41,5,17.2
+6,41,,Government of Haiti,1993,37,37,137,1,Haiti,41,5,17.2
+6,41,,Government of Haiti,1994,44,44,463,1,Haiti,41,5,17.2
+6,41,,Government of Haiti,2005,40,40,74,1,Haiti,41,5,17.2
+10,70,,Government of Mexico,2014,28,28,32,1,Mexico,70,5,17.2
+11,90,,Government of Guatemala,1989,409,46,409,1,Guatemala,90,5,17.2
+11,90,,Government of Guatemala,1990,598,75,598,1,Guatemala,90,5,17.2
+11,90,,Government of Guatemala,1991,354,46,354,1,Guatemala,90,5,17.2
+11,90,,Government of Guatemala,1992,326,53,326,1,Guatemala,90,5,17.2
+11,90,,Government of Guatemala,1993,160,28,293,1,Guatemala,90,5,17.2
+11,90,,Government of Guatemala,1994,250,24,250,1,Guatemala,90,5,17.2
+11,90,,Government of Guatemala,1995,95,21,95,1,Guatemala,90,5,17.2
+17,100,,Government of Colombia,1990,92,80,100,1,Colombia,100,5,17.2
+17,100,,Government of Colombia,1991,70,67,73,1,Colombia,100,5,17.2
+18,101,,Government of Venezuela,1989,61,61,416,1,Venezuela,101,5,17.2
+18,101,,Government of Venezuela,1990,64,64,79,1,Venezuela,101,5,17.2
+18,101,,Government of Venezuela,1991,30,30,41,1,Venezuela,101,5,17.2
+18,101,,Government of Venezuela,1992,79,79,95,1,Venezuela,101,5,17.2
+18,101,,Government of Venezuela,1993,63,63,92,1,Venezuela,101,5,17.2
+18,101,,Government of Venezuela,1994,36,36,52,1,Venezuela,101,5,17.2
+18,101,,Government of Venezuela,1995,26,26,79,1,Venezuela,101,5,17.2
+18,101,,Government of Venezuela,1996,33,33,58,1,Venezuela,101,5,17.2
+18,101,,Government of Venezuela,1999,26,26,47,1,Venezuela,101,5,17.2
+18,101,,Government of Venezuela,2000,25,25,46,1,Venezuela,101,5,17.2
+18,101,,Government of Venezuela,2001,27,27,60,1,Venezuela,101,5,17.2
+18,101,,Government of Venezuela,2003,25,25,53,1,Venezuela,101,5,17.2
+18,101,,Government of Venezuela,2004,31,22,67,1,Venezuela,101,5,17.2
+18,101,,Government of Venezuela,2005,30,19,45,1,Venezuela,101,5,17.2
+21,135,,Government of Peru,1994,72,76,77,1,Peru,135,5,17.2
+22,140,,Government of Brazil,1993,29,29,29,1,Brazil,140,5,17.2
+22,140,,Government of Brazil,2005,34,34,42,1,Brazil,140,5,17.2
+48,344,,Government of Croatia,1993,28,28,94,1,Croatia,344,1,17.2
+48,344,,Government of Croatia,1995,137,87,277,1,"Bosnia-Herzegovina, Croatia","344, 346",1,17.2
+49,345,,Government of Serbia (Yugoslavia),1998,211,211,484,1,Serbia,345,1,17.2
+49,345,,Government of Serbia (Yugoslavia),1999,781,781,2837,1,Macedonia,"343, 345",1,17.2
+50,346,,Government of Bosnia-Herzegovina,1992,80,80,159,1,Bosnia-Herzegovina,346,1,17.2
+50,346,,Government of Bosnia-Herzegovina,1993,167,167,515,1,Bosnia-Herzegovina,346,1,17.2
+56,360,,Government of Rumania,1989,199,199,779,1,Rumania,360,1,17.2
+57,365,,Government of Russia (Soviet Union),1991,33,33,54,1,Russia,365,1,17.2
+57,365,,Government of Russia (Soviet Union),1995,141,141,2471,1,Afghanistan,"365, 700","3, 1",17.2
+57,365,,Government of Russia (Soviet Union),1996,42,42,54,1,Russia,365,1,17.2
+57,365,,Government of Russia (Soviet Union),1999,311,311,475,1,Russia,365,1,17.2
+57,365,,Government of Russia (Soviet Union),2000,1411,1384,1666,1,Russia,365,1,17.2
+57,365,,Government of Russia (Soviet Union),2001,188,188,389,1,Russia,365,1,17.2
+57,365,,Government of Russia (Soviet Union),2002,205,178,380,1,Russia,365,1,17.2
+72,432,,Government of Mali,1990,125,125,262,1,Mali,432,4,17.2
+72,432,,Government of Mali,1991,176,176,204,1,Mali,432,4,17.2
+72,432,,Government of Mali,1992,77,77,119,1,Mali,432,4,17.2
+72,432,,Government of Mali,1994,251,251,989,1,Mali,432,4,17.2
+73,433,,Government of Senegal,1998,38,38,38,1,Senegal,433,4,17.2
+74,435,,Government of Mauritania,1989,27,27,32,1,Mauritania,"433, 435",4,17.2
+75,436,,Government of Niger,1990,200,63,603,1,Niger,436,4,17.2
+75,436,,Government of Niger,1995,31,31,31,1,Niger,436,4,17.2
+75,436,,Government of Niger,1998,147,147,148,1,Niger,436,4,17.2
+76,437,,Government of Ivory Coast,2000,101,101,121,1,Ivory Coast,437,4,17.2
+76,437,,Government of Ivory Coast,2002,228,228,279,1,Ivory Coast,437,4,17.2
+76,437,,Government of Ivory Coast,2003,73,73,73,1,Ivory Coast,437,4,17.2
+76,437,,Government of Ivory Coast,2004,42,39,109,1,Ivory Coast,437,4,17.2
+76,437,,Government of Ivory Coast,2011,277,275,443,1,Ivory Coast,437,4,17.2
+77,438,,Government of Guinea,2007,45,42,56,1,Guinea,438,4,17.2
+77,438,,Government of Guinea,2009,160,90,160,1,Guinea,438,4,17.2
+79,450,,Government of Liberia,1990,1250,1250,1427,1,Liberia,450,4,17.2
+79,450,,Government of Liberia,1999,70,70,70,1,Liberia,450,4,17.2
+79,450,,Government of Liberia,2000,44,44,44,1,Liberia,450,4,17.2
+79,450,,Government of Liberia,2001,120,120,120,1,Liberia,450,4,17.2
+79,450,,Government of Liberia,2002,1648,1648,1648,1,Liberia,450,4,17.2
+79,450,,Government of Liberia,2003,1076,1076,1076,1,Liberia,450,4,17.2
+80,451,,Government of Sierra Leone,1991,56,56,56,1,Sierra Leone,451,4,17.2
+80,451,,Government of Sierra Leone,1994,46,46,46,1,Sierra Leone,451,4,17.2
+80,451,,Government of Sierra Leone,1997,345,345,557,1,Sierra Leone,451,4,17.2
+80,451,,Government of Sierra Leone,1998,84,84,84,1,Sierra Leone,451,4,17.2
+80,451,,Government of Sierra Leone,1999,88,88,88,1,Sierra Leone,451,4,17.2
+82,461,,Government of Togo,1991,32,30,32,1,Togo,461,4,17.2
+82,461,,Government of Togo,1993,48,19,58,1,Togo,461,4,17.2
+82,461,,Government of Togo,2005,436,436,461,1,Togo,461,4,17.2
+83,471,,Government of Cameroon,1994,55,55,61,1,Cameroon,"471, 475",4,17.2
+83,471,,Government of Cameroon,2015,30,30,30,1,Cameroon,471,4,17.2
+84,475,,Government of Nigeria,1990,80,80,80,1,Nigeria,475,4,17.2
+84,475,,Government of Nigeria,1994,56,56,106,1,Nigeria,475,4,17.2
+84,475,,Government of Nigeria,1998,43,43,67,1,Nigeria,475,4,17.2
+84,475,,Government of Nigeria,1999,2704,2704,2846,1,Nigeria,"451, 475",4,17.2
+84,475,,Government of Nigeria,2001,367,367,594,1,Nigeria,475,4,17.2
+84,475,,Government of Nigeria,2002,112,112,112,1,Nigeria,475,4,17.2
+84,475,,Government of Nigeria,2003,43,43,43,1,Nigeria,475,4,17.2
+84,475,,Government of Nigeria,2004,38,38,90,1,Nigeria,475,4,17.2
+84,475,,Government of Nigeria,2008,146,146,150,1,Nigeria,475,4,17.2
+84,475,,Government of Nigeria,2011,35,34,91,1,Nigeria,475,4,17.2
+84,475,,Government of Nigeria,2012,209,209,209,1,Nigeria,475,4,17.2
+84,475,,Government of Nigeria,2014,41,41,41,1,Nigeria,475,4,17.2
+84,475,,Government of Nigeria,2015,48,48,60,1,Nigeria,475,4,17.2
+84,475,,Government of Nigeria,2016,71,71,71,1,Nigeria,475,4,17.2
+86,482,,Government of Central African Republic,2001,25,25,60,1,Chad,"482, 483",4,17.2
+86,482,,Government of Central African Republic,2006,119,119,145,1,Central African Republic,482,4,17.2
+86,482,,Government of Central African Republic,2007,29,25,37,1,Central African Republic,482,4,17.2
+86,482,,Government of Central African Republic,2013,1277,907,1694,1,Central African Republic,482,4,17.2
+87,483,,Government of Chad,1990,41,41,441,1,Sudan,"483, 625",4,17.2
+87,483,,Government of Chad,1991,27,27,32,1,Chad,483,4,17.2
+87,483,,Government of Chad,1992,298,198,341,1,Chad,483,4,17.2
+87,483,,Government of Chad,1993,193,193,247,1,Chad,483,4,17.2
+87,483,,Government of Chad,1994,230,230,230,1,Chad,483,4,17.2
+87,483,,Government of Chad,1995,47,47,48,1,Chad,483,4,17.2
+87,483,,Government of Chad,1998,145,145,145,1,Chad,483,4,17.2
+88,484,,Government of Congo,1993,82,82,82,1,Congo,484,4,17.2
+88,484,,Government of Congo,1997,371,371,1171,1,Congo,484,4,17.2
+88,484,,Government of Congo,1998,431,431,1560,1,Congo,484,4,17.2
+88,484,,Government of Congo,1999,326,326,327,1,Congo,484,4,17.2
+89,490,,Government of DR Congo (Zaire),1989,28,28,28,1,Democratic Republic of the Congo,490,4,17.2
+89,490,,Government of DR Congo (Zaire),1990,147,20,147,1,Democratic Republic of the Congo,490,4,17.2
+89,490,,Government of DR Congo (Zaire),1991,32,32,169,1,Democratic Republic of the Congo,490,4,17.2
+89,490,,Government of DR Congo (Zaire),1992,65,48,92,1,Democratic Republic of the Congo,490,4,17.2
+89,490,,Government of DR Congo (Zaire),1993,103,35,344,1,Democratic Republic of the Congo,"490, 551",4,17.2
+89,490,,Government of DR Congo (Zaire),1995,58,49,81,1,Democratic Republic of the Congo,490,4,17.2
+89,490,,Government of DR Congo (Zaire),1996,1353,1253,1746,1,Democratic Republic of the Congo,490,4,17.2
+89,490,,Government of DR Congo (Zaire),1997,4160,4160,5083,1,Democratic Republic of the Congo,"490, 500",4,17.2
+89,490,,Government of DR Congo (Zaire),1998,1591,1291,1666,1,Democratic Republic of the Congo,490,4,17.2
+89,490,,Government of DR Congo (Zaire),1999,619,619,632,1,Democratic Republic of the Congo,490,4,17.2
+89,490,,Government of DR Congo (Zaire),2000,82,82,82,1,Democratic Republic of the Congo,490,4,17.2
+89,490,,Government of DR Congo (Zaire),2002,189,189,189,1,Democratic Republic of the Congo,490,4,17.2
+89,490,,Government of DR Congo (Zaire),2004,100,50,120,1,Democratic Republic of the Congo,490,4,17.2
+89,490,,Government of DR Congo (Zaire),2006,153,153,161,1,Democratic Republic of the Congo,490,4,17.2
+89,490,,Government of DR Congo (Zaire),2007,92,81,98,1,Democratic Republic of the Congo,490,4,17.2
+89,490,,Government of DR Congo (Zaire),2008,49,49,59,1,Democratic Republic of the Congo,"490, 500",4,17.2
+89,490,,Government of DR Congo (Zaire),2009,895,895,1103,1,Democratic Republic of the Congo,490,4,17.2
+89,490,,Government of DR Congo (Zaire),2012,112,112,118,1,Democratic Republic of the Congo,490,4,17.2
+89,490,,Government of DR Congo (Zaire),2013,50,41,50,1,Democratic Republic of the Congo,490,4,17.2
+89,490,,Government of DR Congo (Zaire),2014,34,34,46,1,Democratic Republic of the Congo,490,4,17.2
+89,490,,Government of DR Congo (Zaire),2016,166,165,165,1,Democratic Republic of the Congo,490,4,17.2
+90,500,,Government of Uganda,1990,80,80,80,1,Uganda,500,4,17.2
+90,500,,Government of Uganda,1991,59,59,59,1,Uganda,500,4,17.2
+90,500,,Government of Uganda,2000,26,26,26,1,Democratic Republic of the Congo,490,4,17.2
+91,501,,Government of Kenya,2007,41,41,49,1,Kenya,501,4,17.2
+91,501,,Government of Kenya,2008,220,195,254,1,Kenya,501,4,17.2
+92,510,,Government of Tanzania,2001,37,37,71,1,Tanzania,510,4,17.2
+93,516,,Government of Burundi,1995,1118,740,1149,1,Burundi,516,4,17.2
+93,516,,Government of Burundi,1996,1542,1212,8018,1,Burundi,516,4,17.2
+93,516,,Government of Burundi,1997,199,199,856,1,Burundi,516,4,17.2
+93,516,,Government of Burundi,1998,314,271,393,1,Burundi,516,4,17.2
+93,516,,Government of Burundi,1999,225,225,581,1,Burundi,516,4,17.2
+93,516,,Government of Burundi,2000,389,359,408,1,Burundi,516,4,17.2
+93,516,,Government of Burundi,2002,243,243,340,1,Burundi,516,4,17.2
+93,516,,Government of Burundi,2003,129,129,206,1,Burundi,516,4,17.2
+93,516,,Government of Burundi,2004,33,33,33,1,Burundi,516,4,17.2
+93,516,,Government of Burundi,2005,26,26,26,1,Burundi,516,4,17.2
+93,516,,Government of Burundi,2015,77,77,105,1,Burundi,516,4,17.2
+94,517,,Government of Rwanda,1990,1466,1466,1970,1,Rwanda,517,4,17.2
+94,517,,Government of Rwanda,1991,932,932,1432,1,Rwanda,517,4,17.2
+94,517,,Government of Rwanda,1992,807,807,869,1,Rwanda,517,4,17.2
+94,517,,Government of Rwanda,1994,500000,171441,800000,1,Democratic Republic of the Congo,"490, 516, 517",4,17.2
+94,517,,Government of Rwanda,1993,376,376,376,1,Rwanda,517,4,17.2
+94,517,,Government of Rwanda,1994,500000,171441,800000,1,Burundi,"490, 516, 517",4,17.2
+94,517,,Government of Rwanda,1995,4141,2141,8235,1,Rwanda,"490, 517",4,17.2
+94,517,,Government of Rwanda,1996,154,154,160,1,Burundi,"490, 516, 517",4,17.2
+94,517,,Government of Rwanda,1997,3426,1126,4176,1,Rwanda,517,4,17.2
+94,517,,Government of Rwanda,2009,203,201,203,1,Democratic Republic of the Congo,"490, 517",4,17.2
+94,517,,Government of Rwanda,2016,27,26,27,1,Rwanda,517,4,17.2
+95,520,,Government of Somalia,1989,688,688,5234,1,Somalia,520,4,17.2
+95,520,,Government of Somalia,1991,450,400,455,1,Somalia,520,4,17.2
+95,520,,Government of Somalia,2011,36,35,53,1,Somalia,520,4,17.2
+95,520,,Government of Somalia,2012,29,26,31,1,Somalia,520,4,17.2
+97,530,,Government of Ethiopia,1989,900,900,1300,1,Ethiopia,530,4,17.2
+97,530,,Government of Ethiopia,1990,158,158,158,1,Ethiopia,530,4,17.2
+97,530,,Government of Ethiopia,1991,37,37,37,1,Ethiopia,530,4,17.2
+97,530,,Government of Ethiopia,1993,26,26,26,1,Ethiopia,530,4,17.2
+97,530,,Government of Ethiopia,2002,35,35,40,1,Ethiopia,530,4,17.2
+97,530,,Government of Ethiopia,2003,509,509,509,1,Ethiopia,530,4,17.2
+97,530,,Government of Ethiopia,2004,244,244,1252,1,Ethiopia,530,4,17.2
+97,530,,Government of Ethiopia,2006,26,26,26,1,Sudan,"530, 625",4,17.2
+97,530,,Government of Ethiopia,2007,162,162,250,1,Sudan,"520, 530",4,17.2
+97,530,,Government of Ethiopia,2008,33,33,57,1,Sudan,"520, 530",4,17.2
+97,530,,Government of Ethiopia,2012,88,88,153,1,Ethiopia,530,4,17.2
+97,530,,Government of Ethiopia,2015,258,258,262,1,Ethiopia,"520, 530",4,17.2
+97,530,,Government of Ethiopia,2016,300,300,306,1,Ethiopia,530,4,17.2
+99,540,,Government of Angola,1997,30,30,107,1,Angola,"484, 540",4,17.2
+99,540,,Government of Angola,1998,42,42,42,1,Republic of the Congo,"484, 540",4,17.2
+99,540,,Government of Angola,2003,59,59,74,1,Angola,540,4,17.2
+101,552,,Government of Zimbabwe (Rhodesia),2008,253,253,317,1,Zimbabwe,552,4,17.2
+102,560,,Government of South Africa,1989,57,57,388,1,Namibia,"560, 565, 572",4,17.2
+102,560,,Government of South Africa,1990,195,195,218,1,Botswana,"560, 571",4,17.2
+102,560,,Government of South Africa,1991,49,49,62,1,South Africa,560,4,17.2
+102,560,,Government of South Africa,1992,57,57,70,1,South Africa,560,4,17.2
+102,560,,Government of South Africa,1993,67,67,94,1,South Africa,560,4,17.2
+106,580,,Government of Madagascar,2009,31,28,50,1,Madagascar (Malagasy),580,4,17.2
+111,620,,Government of Libya,1989,170,170,170,1,Niger,436,4,17.2
+111,620,,Government of Libya,2011,152,152,168,1,Libya,620,4,17.2
+112,625,,Government of Sudan,1989,1000,1000,1150,1,Sudan,625,4,17.2
+112,625,,Government of Sudan,1990,263,263,400,1,Sudan,625,4,17.2
+112,625,,Government of Sudan,1991,250,250,350,1,Sudan,625,4,17.2
+112,625,,Government of Sudan,1992,1558,1358,2928,1,Sudan,625,4,17.2
+112,625,,Government of Sudan,1993,598,598,708,1,Sudan,625,4,17.2
+112,625,,Government of Sudan,1994,471,471,581,1,Sudan,625,4,17.2
+112,625,,Government of Sudan,1995,228,228,332,1,Sudan,625,4,17.2
+112,625,,Government of Sudan,1996,34,34,59,1,Sudan,625,4,17.2
+112,625,,Government of Sudan,1997,200,200,1157,1,Sudan,625,4,17.2
+112,625,,Government of Sudan,1998,397,397,1156,1,Sudan,625,4,17.2
+112,625,,Government of Sudan,1999,100,100,1070,1,Sudan,625,4,17.2
+112,625,,Government of Sudan,2000,279,279,503,1,Sudan,625,4,17.2
+112,625,,Government of Sudan,2001,51,51,136,1,Sudan,625,4,17.2
+112,625,,Government of Sudan,2002,55,55,55,1,Sudan,625,4,17.2
+112,625,,Government of Sudan,2003,1776,1776,12470,1,Sudan,625,4,17.2
+112,625,,Government of Sudan,2004,2593,2429,15408,1,Sudan,625,4,17.2
+112,625,,Government of Sudan,2005,403,303,706,1,Chad,"483, 625",4,17.2
+112,625,,Government of Sudan,2006,252,252,362,1,Chad,"483, 625",4,17.2
+112,625,,Government of Sudan,2007,99,99,145,1,Sudan,625,4,17.2
+112,625,,Government of Sudan,2008,186,186,357,1,Sudan,625,4,17.2
+112,625,,Government of Sudan,2011,176,176,364,1,Sudan,625,4,17.2
+112,625,,Government of Sudan,2012,53,53,65,1,South Sudan,"625, 626",4,17.2
+112,625,,Government of Sudan,2013,27,27,40,1,South Sudan,"625, 626",4,17.2
+112,625,,Government of Sudan,2014,94,94,174,1,Sudan,625,4,17.2
+112,625,,Government of Sudan,2015,371,371,590,1,Sudan,625,4,17.2
+112,625,,Government of Sudan,2016,440,438,499,1,Sudan,625,4,17.2
+113,626,,Government of South Sudan,2012,65,51,93,1,South Sudan,626,4,17.2
+113,626,,Government of South Sudan,2013,580,580,749,1,South Sudan,626,4,17.2
+113,626,,Government of South Sudan,2014,205,205,211,1,South Sudan,626,4,17.2
+113,626,,Government of South Sudan,2015,349,340,537,1,South Sudan,626,4,17.2
+113,626,,Government of South Sudan,2016,110,110,144,1,South Sudan,626,4,17.2
+116,645,,Government of Iraq,1990,294,294,2737,1,Iran,"645, 690",2,17.2
+116,645,,Government of Iraq,1991,957,957,1969,1,Iran,"640, 645, 690",2,17.2
+116,645,,Government of Iraq,1992,159,159,253,1,Iran,"645, 663",2,17.2
+116,645,,Government of Iraq,1993,133,103,173,1,Iraq,645,2,17.2
+116,645,,Government of Iraq,1994,45,45,62,1,Lebanon,"645, 660",2,17.2
+116,645,,Government of Iraq,1995,100,100,220,1,Iraq,645,2,17.2
+116,645,,Government of Iraq,1996,109,109,319,1,Iraq,"645, 690",2,17.2
+116,645,,Government of Iraq,1999,33,33,650,1,Iraq,645,2,17.2
+116,645,,Government of Iraq,2005,72,72,134,1,Iraq,645,2,17.2
+116,645,,Government of Iraq,2006,84,15,109,1,Iraq,645,2,17.2
+116,645,,Government of Iraq,2007,63,63,109,1,Iraq,645,2,17.2
+116,645,,Government of Iraq,2015,56,56,72,1,Iraq,645,2,17.2
+116,645,,Government of Iraq,2016,108,78,111,1,Iraq,645,2,17.2
+117,651,,Government of Egypt,2005,36,36,36,1,Egypt,651,2,17.2
+118,652,,Government of Syria,2011,2924,2823,3317,1,Lebanon,"652, 660",2,17.2
+118,652,,Government of Syria,2012,337,333,397,1,Syria,652,2,17.2
+118,652,,Government of Syria,2013,606,501,634,1,Syria,652,2,17.2
+118,652,,Government of Syria,2014,39,39,39,1,Syria,652,2,17.2
+118,652,,Government of Syria,2015,39,39,56,1,Syria,652,2,17.2
+121,666,,Government of Israel,1989,62,62,66,1,Israel,666,2,17.2
+121,666,,Government of Israel,1996,102,102,105,1,Lebanon,660,2,17.2
+121,666,,Government of Israel,2004,31,31,75,1,Israel,666,2,17.2
+121,666,,Government of Israel,2005,27,26,39,1,Israel,666,2,17.2
+121,666,,Government of Israel,2006,182,182,222,1,Lebanon,"660, 666",2,17.2
+123,678,,Government of Yemen (North Yemen),2011,142,142,190,1,Yemen,678,2,17.2
+126,692,,Government of Bahrain,2011,26,26,30,1,Bahrain,692,2,17.2
+130,700,,Government of Afghanistan,1993,26,26,240,1,Afghanistan,700,3,17.2
+130,700,,Government of Afghanistan,1997,323,323,323,1,Afghanistan,700,3,17.2
+130,700,,Government of Afghanistan,1998,5801,3731,7381,1,Afghanistan,700,3,17.2
+130,700,,Government of Afghanistan,1999,436,436,912,1,Afghanistan,700,3,17.2
+130,700,,Government of Afghanistan,2000,152,152,152,1,Afghanistan,700,3,17.2
+130,700,,Government of Afghanistan,2001,298,298,1077,1,Afghanistan,700,3,17.2
+131,702,,Government of Tajikistan,1992,46,46,46,1,Tajikistan,702,3,17.2
+135,710,,Government of China,1989,2600,931,3138,1,China,710,3,17.2
+135,710,,Government of China,2008,51,51,151,1,China,710,3,17.2
+141,750,,Government of India,1990,43,43,282,1,Bangladesh,"750, 770, 771",3,17.2
+141,750,,Government of India,1993,56,56,306,1,India,750,3,17.2
+141,750,,Government of India,2002,59,59,66,1,India,750,3,17.2
+143,771,,Government of Bangladesh,1992,138,138,300,1,Bangladesh,771,3,17.2
+144,775,,Government of Myanmar (Burma),1991,231,231,235,1,Myanmar,"771, 775",3,17.2
+144,775,,Government of Myanmar (Burma),1992,142,118,223,1,Myanmar,"771, 775",3,17.2
+144,775,,Government of Myanmar (Burma),1994,98,97,98,1,Bangladesh,"771, 775",3,17.2
+144,775,,Government of Myanmar (Burma),1995,128,125,135,1,Myanmar,"775, 800",3,17.2
+144,775,,Government of Myanmar (Burma),1996,296,296,301,1,Bangladesh,"771, 775",3,17.2
+144,775,,Government of Myanmar (Burma),1997,461,461,525,1,Myanmar,"775, 800",3,17.2
+144,775,,Government of Myanmar (Burma),1998,435,433,441,1,Bangladesh,"771, 775",3,17.2
+144,775,,Government of Myanmar (Burma),1999,299,299,299,1,Myanmar,"771, 775, 800",3,17.2
+144,775,,Government of Myanmar (Burma),2000,457,457,467,1,Bangladesh,"771, 775",3,17.2
+144,775,,Government of Myanmar (Burma),2001,106,106,118,1,Myanmar,775,3,17.2
+144,775,,Government of Myanmar (Burma),2002,249,238,281,1,Myanmar,775,3,17.2
+144,775,,Government of Myanmar (Burma),2003,195,195,202,1,Myanmar,775,3,17.2
+144,775,,Government of Myanmar (Burma),2004,114,114,116,1,Myanmar,775,3,17.2
+144,775,,Government of Myanmar (Burma),2005,198,191,205,1,Myanmar,775,3,17.2
+144,775,,Government of Myanmar (Burma),2006,192,189,208,1,Myanmar,775,3,17.2
+144,775,,Government of Myanmar (Burma),2007,292,220,400,1,Myanmar,775,3,17.2
+144,775,,Government of Myanmar (Burma),2008,54,53,66,1,Myanmar,775,3,17.2
+144,775,,Government of Myanmar (Burma),2010,25,25,25,1,Myanmar,775,3,17.2
+144,775,,Government of Myanmar (Burma),2011,88,88,92,1,Myanmar,775,3,17.2
+144,775,,Government of Myanmar (Burma),2012,109,92,115,1,Myanmar,775,3,17.2
+144,775,,Government of Myanmar (Burma),2013,27,26,37,1,Myanmar,775,3,17.2
+144,775,,Government of Myanmar (Burma),2014,40,10,64,1,Myanmar,775,3,17.2
+144,775,,Government of Myanmar (Burma),2015,32,32,35,1,Myanmar,775,3,17.2
+145,780,,Government of Sri Lanka,1989,59,42,379,1,Sri Lanka,780,3,17.2
+145,780,,Government of Sri Lanka,1990,464,439,688,1,Sri Lanka,780,3,17.2
+145,780,,Government of Sri Lanka,1991,67,67,150,1,Sri Lanka,780,3,17.2
+145,780,,Government of Sri Lanka,1992,35,35,35,1,Sri Lanka,780,3,17.2
+145,780,,Government of Sri Lanka,1996,32,32,32,1,Sri Lanka,780,3,17.2
+145,780,,Government of Sri Lanka,2006,28,28,58,1,Sri Lanka,780,3,17.2
+146,790,,Government of Nepal,1996,27,27,29,1,Nepal,790,3,17.2
+146,790,,Government of Nepal,1998,106,106,106,1,Nepal,790,3,17.2
+146,790,,Government of Nepal,1999,89,89,89,1,Nepal,790,3,17.2
+146,790,,Government of Nepal,2000,51,51,51,1,Nepal,790,3,17.2
+146,790,,Government of Nepal,2001,74,74,76,1,Nepal,790,3,17.2
+146,790,,Government of Nepal,2002,274,274,278,1,Nepal,790,3,17.2
+146,790,,Government of Nepal,2003,197,197,269,1,Nepal,790,3,17.2
+146,790,,Government of Nepal,2004,176,176,250,1,Nepal,790,3,17.2
+146,790,,Government of Nepal,2005,108,108,136,1,Nepal,790,3,17.2
+146,790,,Government of Nepal,2006,47,46,51,1,Nepal,790,3,17.2
+148,811,,Government of Cambodia (Kampuchea),1993,26,26,94,1,Cambodia,811,3,17.2
+149,812,,Government of Laos,2006,73,70,73,1,Laos,812,3,17.2
+154,840,,Government of Philippines,1990,35,35,69,1,Philippines,840,3,17.2
+154,840,,Government of Philippines,1991,30,30,33,1,Philippines,840,3,17.2
+155,850,,Government of Indonesia,1990,96,57,96,1,Indonesia,850,3,17.2
+155,850,,Government of Indonesia,1991,368,184,515,1,Indonesia,850,3,17.2
+155,850,,Government of Indonesia,1995,38,38,44,1,Indonesia,850,3,17.2
+155,850,,Government of Indonesia,1997,29,29,33,1,Indonesia,850,3,17.2
+155,850,,Government of Indonesia,1998,56,48,76,1,Indonesia,850,3,17.2
+155,850,,Government of Indonesia,1999,914,867,1472,1,Indonesia,850,3,17.2
+155,850,,Government of Indonesia,2000,36,36,49,1,Indonesia,850,3,17.2
+155,850,,Government of Indonesia,2001,48,48,87,1,Indonesia,850,3,17.2
+155,850,,Government of Indonesia,2002,37,19,51,1,Indonesia,850,3,17.2
+155,850,,Government of Indonesia,2003,52,51,297,1,Indonesia,850,3,17.2
+157,910,,Government of Papua New Guinea,1992,27,27,28,1,Papua New Guinea,910,3,17.2
+157,910,,Government of Papua New Guinea,1996,28,20,31,1,Papua New Guinea,910,3,17.2
+169,,,CPP,2015,34,34,35,0,Philippines,840,3,17.2
+193,,,PWG,1990,47,47,47,0,India,750,3,17.2
+194,,,MCC,1992,35,35,37,0,India,750,3,17.2
+194,,,MCC,1999,49,35,49,0,India,750,3,17.2
+194,,,MCC,2000,26,26,26,0,India,750,3,17.2
+195,,,CPI-Maoist,2005,43,43,50,0,India,750,3,17.2
+195,,,CPI-Maoist,2006,166,166,174,0,India,750,3,17.2
+195,,,CPI-Maoist,2007,135,135,167,0,India,750,3,17.2
+195,,,CPI-Maoist,2008,167,167,175,0,India,750,3,17.2
+195,,,CPI-Maoist,2009,243,224,289,0,India,750,3,17.2
+195,,,CPI-Maoist,2010,321,263,360,0,India,750,3,17.2
+195,,,CPI-Maoist,2011,195,195,202,0,India,750,3,17.2
+195,,,CPI-Maoist,2012,108,106,121,0,India,750,3,17.2
+195,,,CPI-Maoist,2013,126,99,129,0,India,750,3,17.2
+195,,,CPI-Maoist,2014,77,63,82,0,India,750,3,17.2
+195,,,CPI-Maoist,2015,76,73,89,0,India,750,3,17.2
+195,,,CPI-Maoist,2016,93,93,104,0,India,750,3,17.2
+208,,,PIJ,2001,37,37,38,0,Israel,666,2,17.2
+208,,,PIJ,2002,26,26,28,0,Israel,666,2,17.2
+208,,,PIJ,2005,30,30,32,0,Israel,666,2,17.2
+209,,,Hamas,1994,54,54,56,0,Israel,666,2,17.2
+209,,,Hamas,1996,44,44,59,0,Israel,666,2,17.2
+209,,,Hamas,2001,55,54,57,0,Israel,666,2,17.2
+209,,,Hamas,2002,145,145,145,0,Israel,666,2,17.2
+209,,,Hamas,2003,79,79,84,0,Israel,666,2,17.2
+209,,,Hamas,2004,35,35,46,0,Israel,666,2,17.2
+211,,,AMB,2002,81,80,81,0,Israel,666,2,17.2
+211,,,AMB,2003,41,41,43,0,Israel,666,2,17.2
+223,,,NSCN-IM,1989,90,90,90,0,India,750,3,17.2
+223,,,NSCN-IM,1993,194,194,207,0,India,750,3,17.2
+223,,,NSCN-IM,1994,56,56,81,0,India,750,3,17.2
+223,,,NSCN-IM,1995,35,35,35,0,India,750,3,17.2
+223,,,NSCN-IM,1996,33,33,33,0,India,750,3,17.2
+233,,,Ansar al-Islam,2004,41,41,51,0,Iraq,645,2,17.2
+233,,,Ansar al-Islam,2005,76,76,77,0,Iraq,645,2,17.2
+234,,,IS,2004,92,92,97,0,Iraq,645,2,17.2
+234,,,IS,2005,727,721,785,0,Jordan,"645, 663",2,17.2
+234,,,IS,2006,443,443,503,0,Iraq,645,2,17.2
+234,,,IS,2007,1991,1436,2089,0,Iraq,645,2,17.2
+234,,,IS,2008,526,510,542,0,Iraq,645,2,17.2
+234,,,IS,2009,636,518,664,0,Iraq,645,2,17.2
+234,,,IS,2010,706,570,741,0,Iraq,645,2,17.2
+234,,,IS,2011,322,300,341,0,Iraq,645,2,17.2
+234,,,IS,2012,769,714,772,0,Iraq,645,2,17.2
+234,,,IS,2013,2144,2073,2200,0,Syria,"645, 652",2,17.2
+234,,,IS,2014,4187,4187,4522,0,Syria,"645, 652",2,17.2
+234,,,IS,2015,6042,5778,6955,0,Afghanistan,"2, 220, 365, 436, 471, 475, 483, 616, 620, 640, 645, 651, 652, 670, 678, 690, 700, 770, 771","2, 4, 3, 1, 5",17.2
+234,,,IS,2016,3718,3494,4041,0,Afghanistan,"211, 220, 260, 365, 436, 471, 475, 483, 620, 640, 645, 651, 652, 660, 670, 678, 700, 770, 771","2, 4, 3, 1",17.2
+258,,,CPN-M,1999,50,50,67,0,Nepal,790,3,17.2
+258,,,CPN-M,2000,46,41,58,0,Nepal,790,3,17.2
+258,,,CPN-M,2001,66,66,78,0,Nepal,790,3,17.2
+258,,,CPN-M,2002,212,212,220,0,Nepal,790,3,17.2
+258,,,CPN-M,2003,194,194,204,0,Nepal,790,3,17.2
+258,,,CPN-M,2004,400,400,427,0,Nepal,790,3,17.2
+258,,,CPN-M,2005,187,187,218,0,Nepal,790,3,17.2
+258,,,CPN-M,2006,62,61,75,0,Nepal,790,3,17.2
+270,,,KR,1990,103,103,127,0,Cambodia,811,3,17.2
+270,,,KR,1991,92,92,92,0,Cambodia,811,3,17.2
+270,,,KR,1992,73,73,91,0,Cambodia,811,3,17.2
+270,,,KR,1993,184,181,310,0,Cambodia,811,3,17.2
+270,,,KR,1994,102,102,167,0,Cambodia,811,3,17.2
+270,,,KR,1995,29,29,29,0,Cambodia,811,3,17.2
+270,,,KR,1996,53,53,53,0,Cambodia,811,3,17.2
+270,,,KR,1998,25,23,45,0,Cambodia,811,3,17.2
+276,,,MILF,2000,172,165,188,0,Philippines,840,3,17.2
+276,,,MILF,2003,55,39,128,0,Philippines,840,3,17.2
+276,,,MILF,2008,39,39,39,0,Philippines,840,3,17.2
+277,,,ASG,1995,25,25,51,0,Philippines,840,3,17.2
+277,,,ASG,2001,33,33,38,0,Philippines,840,3,17.2
+277,,,ASG,2002,38,38,38,0,Philippines,840,3,17.2
+277,,,ASG,2004,122,122,122,0,Philippines,840,3,17.2
+277,,,ASG,2010,25,25,30,0,Philippines,840,3,17.2
+281,,,JVP,1989,250,250,567,0,Sri Lanka,780,3,17.2
+285,,,JSS/SB,1989,54,54,54,0,Bangladesh,771,3,17.2
+285,,,JSS/SB,1990,47,47,47,0,Bangladesh,771,3,17.2
+285,,,JSS/SB,1991,67,67,68,0,Bangladesh,771,3,17.2
+285,,,JSS/SB,1992,52,52,52,0,Bangladesh,771,3,17.2
+285,,,JSS/SB,1996,30,30,31,0,Bangladesh,771,3,17.2
+287,,,BLA,2010,31,31,38,0,Pakistan,770,3,17.2
+303,,,Taleban,1996,42,12,42,0,Afghanistan,700,3,17.2
+303,,,Taleban,2004,53,51,69,0,Afghanistan,700,3,17.2
+303,,,Taleban,2005,114,114,149,0,Pakistan,"700, 770",3,17.2
+303,,,Taleban,2006,196,194,253,0,Afghanistan,700,3,17.2
+303,,,Taleban,2007,113,113,142,0,Afghanistan,700,3,17.2
+303,,,Taleban,2008,108,74,120,0,Afghanistan,700,3,17.2
+303,,,Taleban,2009,154,151,179,0,Afghanistan,700,3,17.2
+303,,,Taleban,2010,185,184,286,0,Afghanistan,700,3,17.2
+303,,,Taleban,2011,76,76,163,0,Afghanistan,700,3,17.2
+303,,,Taleban,2012,83,82,131,0,Afghanistan,700,3,17.2
+303,,,Taleban,2013,64,62,80,0,Afghanistan,700,3,17.2
+303,,,Taleban,2014,240,237,297,0,Afghanistan,700,3,17.2
+303,,,Taleban,2015,160,160,245,0,Afghanistan,700,3,17.2
+303,,,Taleban,2016,149,149,285,0,Pakistan,"700, 770",3,17.2
+304,,,UIFSA,2001,200,200,1000,0,Afghanistan,700,3,17.2
+306,,,ATTF,1993,25,25,25,0,India,750,3,17.2
+306,,,ATTF,1997,54,54,73,0,India,750,3,17.2
+306,,,ATTF,1998,29,29,29,0,India,750,3,17.2
+306,,,ATTF,2003,62,62,71,0,India,750,3,17.2
+307,,,NLFT,1996,36,36,39,0,India,750,3,17.2
+307,,,NLFT,1998,61,61,70,0,India,750,3,17.2
+307,,,NLFT,1999,48,45,51,0,India,750,3,17.2
+307,,,NLFT,2000,64,64,64,0,India,750,3,17.2
+307,,,NLFT,2001,48,48,48,0,Bangladesh,"750, 771",3,17.2
+307,,,NLFT,2002,40,24,51,0,India,750,3,17.2
+307,,,NLFT,2003,91,81,92,0,India,750,3,17.2
+310,,,Jondullah,2009,25,25,30,0,Iran,630,2,17.2
+316,,,KNF,1997,25,20,25,0,India,750,3,17.2
+319,,,Sikh insurgents,1989,140,140,1351,0,India,750,3,17.2
+319,,,Sikh insurgents,1990,296,296,376,0,India,750,3,17.2
+319,,,Sikh insurgents,1991,433,433,619,0,Nepal,"750, 790",3,17.2
+319,,,Sikh insurgents,1992,445,442,498,0,India,750,3,17.2
+319,,,Sikh insurgents,1993,34,34,34,0,India,750,3,17.2
+320,,,LTTE,1989,145,145,204,0,Sri Lanka,780,3,17.2
+320,,,LTTE,1990,683,683,713,0,Sri Lanka,780,3,17.2
+320,,,LTTE,1991,147,147,164,0,Sri Lanka,780,3,17.2
+320,,,LTTE,1992,318,315,321,0,Sri Lanka,780,3,17.2
+320,,,LTTE,1994,25,25,80,0,Sri Lanka,780,3,17.2
+320,,,LTTE,1995,197,197,217,0,Sri Lanka,780,3,17.2
+320,,,LTTE,1996,197,197,197,0,Sri Lanka,780,3,17.2
+320,,,LTTE,1998,60,60,61,0,Sri Lanka,780,3,17.2
+320,,,LTTE,1999,62,62,82,0,Sri Lanka,780,3,17.2
+320,,,LTTE,2000,35,35,43,0,Sri Lanka,780,3,17.2
+320,,,LTTE,2006,78,78,79,0,Sri Lanka,780,3,17.2
+320,,,LTTE,2007,46,46,121,0,Sri Lanka,780,3,17.2
+320,,,LTTE,2008,185,185,198,0,Sri Lanka,780,3,17.2
+320,,,LTTE,2009,248,248,261,0,Sri Lanka,780,3,17.2
+323,,,PKK,1989,74,74,77,0,Turkey,640,2,17.2
+323,,,PKK,1990,61,61,75,0,Turkey,640,2,17.2
+323,,,PKK,1991,49,49,58,0,Turkey,640,2,17.2
+323,,,PKK,1992,216,205,273,0,Turkey,640,2,17.2
+323,,,PKK,1993,404,404,1512,0,Turkey,640,2,17.2
+323,,,PKK,1994,205,205,306,0,Turkey,640,2,17.2
+323,,,PKK,1995,96,96,165,0,Iraq,"640, 645",2,17.2
+323,,,PKK,1998,66,66,66,0,Turkey,"640, 645",2,17.2
+323,,,PKK,1999,30,30,35,0,Iraq,"640, 645",2,17.2
+325,,,Kashmir insurgents,1990,59,59,80,0,India,750,3,17.2
+325,,,Kashmir insurgents,1993,34,34,654,0,India,750,3,17.2
+325,,,Kashmir insurgents,1995,37,37,96,0,India,750,3,17.2
+325,,,Kashmir insurgents,1996,121,121,142,0,India,750,3,17.2
+325,,,Kashmir insurgents,1997,63,63,151,0,India,750,3,17.2
+325,,,Kashmir insurgents,1998,251,248,289,0,India,750,3,17.2
+325,,,Kashmir insurgents,1999,251,247,451,0,India,750,3,17.2
+325,,,Kashmir insurgents,2000,685,673,686,0,India,750,3,17.2
+325,,,Kashmir insurgents,2001,240,240,742,0,India,750,3,17.2
+325,,,Kashmir insurgents,2002,363,363,363,0,India,750,3,17.2
+325,,,Kashmir insurgents,2003,245,181,352,0,India,750,3,17.2
+325,,,Kashmir insurgents,2004,156,156,162,0,India,750,3,17.2
+325,,,Kashmir insurgents,2005,247,242,284,0,India,750,3,17.2
+325,,,Kashmir insurgents,2006,190,190,201,0,India,750,3,17.2
+325,,,Kashmir insurgents,2007,38,38,39,0,India,750,3,17.2
+325,,,Kashmir insurgents,2008,39,39,41,0,India,750,3,17.2
+325,,,Kashmir insurgents,2009,30,30,40,0,India,750,3,17.2
+325,,,Kashmir insurgents,2010,25,25,25,0,India,750,3,17.2
+326,,,ULFA,2000,85,74,85,0,India,750,3,17.2
+326,,,ULFA,2001,36,32,48,0,India,750,3,17.2
+326,,,ULFA,2004,64,51,78,0,India,750,3,17.2
+326,,,ULFA,2006,36,36,47,0,India,750,3,17.2
+326,,,ULFA,2007,180,172,190,0,India,750,3,17.2
+326,,,ULFA,2009,36,33,36,0,India,750,3,17.2
+327,,,GAM,1990,32,31,32,0,Indonesia,850,3,17.2
+327,,,GAM,2003,134,132,152,0,Indonesia,850,3,17.2
+327,,,GAM,2004,77,76,84,0,Indonesia,850,3,17.2
+338,,,Republic of Nagorno-Karabakh,1992,161,161,763,0,Azerbaijan,373,1,17.2
+341,,,al-Gama'a al-Islamiyya,1995,40,40,60,0,Egypt,651,2,17.2
+341,,,al-Gama'a al-Islamiyya,1996,64,64,68,0,Egypt,651,2,17.2
+341,,,al-Gama'a al-Islamiyya,1997,77,77,93,0,Egypt,651,2,17.2
+342,,,Republic of Abkhazia,1993,74,74,120,0,Georgia,372,1,17.2
+342,,,Republic of Abkhazia,1995,52,52,58,0,Georgia,372,1,17.2
+350,,,Croatian Republic of Bosnia-Herzegovina,1993,132,132,147,0,Bosnia-Herzegovina,346,1,17.2
+350,,,Croatian Republic of Bosnia-Herzegovina,1995,37,37,40,0,Bosnia-Herzegovina,346,1,17.2
+352,,,Chechen Republic of Ichkeria,1999,32,32,32,0,Russia,365,1,17.2
+352,,,Chechen Republic of Ichkeria,2003,59,32,68,0,Russia,365,1,17.2
+352,,,Chechen Republic of Ichkeria,2004,108,108,111,0,Russia,365,1,17.2
+356,,,TTP,2007,58,58,58,0,Pakistan,770,3,17.2
+356,,,TTP,2008,243,243,257,0,Pakistan,770,3,17.2
+356,,,TTP,2009,225,225,243,0,Pakistan,770,3,17.2
+356,,,TTP,2010,549,536,618,0,Pakistan,770,3,17.2
+356,,,TTP,2011,198,198,198,0,Pakistan,770,3,17.2
+356,,,TTP,2012,166,166,166,0,Pakistan,770,3,17.2
+356,,,TTP,2013,496,496,496,0,Pakistan,770,3,17.2
+356,,,TTP,2014,174,174,187,0,Pakistan,770,3,17.2
+356,,,TTP,2015,55,55,59,0,Pakistan,770,3,17.2
+356,,,TTP,2016,230,230,233,0,Pakistan,770,3,17.2
+362,,,ABSU,1990,69,60,73,0,India,750,3,17.2
+363,,,NDFB,1992,83,83,114,0,India,750,3,17.2
+363,,,NDFB,1994,108,108,108,0,India,750,3,17.2
+363,,,NDFB,1995,39,39,39,0,India,750,3,17.2
+363,,,NDFB,1997,45,45,73,0,India,750,3,17.2
+363,,,NDFB,1998,60,60,88,0,India,750,3,17.2
+363,,,NDFB,2000,58,45,59,0,India,750,3,17.2
+363,,,NDFB,2001,46,44,46,0,India,750,3,17.2
+363,,,NDFB,2002,73,73,73,0,India,750,3,17.2
+363,,,NDFB,2004,51,51,91,0,Bhutan,"750, 760",3,17.2
+363,,,NDFB,2009,33,27,35,0,India,750,3,17.2
+365,,,Patani insurgents,2004,146,146,147,0,Thailand,800,3,17.2
+365,,,Patani insurgents,2005,286,285,299,0,Thailand,800,3,17.2
+365,,,Patani insurgents,2006,329,329,329,0,Thailand,800,3,17.2
+365,,,Patani insurgents,2007,320,320,323,0,Thailand,800,3,17.2
+365,,,Patani insurgents,2008,180,180,180,0,Thailand,800,3,17.2
+365,,,Patani insurgents,2009,120,118,131,0,Thailand,800,3,17.2
+365,,,Patani insurgents,2010,136,136,137,0,Thailand,800,3,17.2
+365,,,Patani insurgents,2011,116,116,135,0,Thailand,800,3,17.2
+365,,,Patani insurgents,2012,113,111,134,0,Thailand,800,3,17.2
+365,,,Patani insurgents,2013,60,60,60,0,Thailand,800,3,17.2
+365,,,Patani insurgents,2014,32,25,41,0,Thailand,800,3,17.2
+365,,,Patani insurgents,2015,27,22,32,0,Thailand,800,3,17.2
+367,,,Forces of the Caucasus Emirate,2010,58,58,60,0,Russia,365,1,17.2
+367,,,Forces of the Caucasus Emirate,2011,40,39,45,0,Russia,365,1,17.2
+367,,,Forces of the Caucasus Emirate,2013,40,40,43,0,Russia,365,1,17.2
+368,,,DHD - BW,2008,35,35,37,0,India,750,3,17.2
+373,,,BLTF,1996,37,37,43,0,India,750,3,17.2
+373,,,BLTF,1998,31,31,33,0,India,750,3,17.2
+382,,,Gazotan Murdash,2004,41,38,50,0,Russia,365,1,17.2
+383,,,GICM,2004,191,191,191,0,Spain,230,1,17.2
+384,,,Jamaat Jund al-Sahaba,2005,87,87,87,0,Iraq,645,2,17.2
+384,,,Jamaat Jund al-Sahaba,2006,69,69,74,0,Iraq,645,2,17.2
+385,,,Jemaah Islamiya,2002,202,202,202,0,Indonesia,850,3,17.2
+388,,,LeJ,1998,25,25,25,0,Pakistan,770,3,17.2
+388,,,LeJ,1999,25,25,26,0,Pakistan,770,3,17.2
+388,,,LeJ,2003,66,66,66,0,Pakistan,770,3,17.2
+388,,,LeJ,2004,70,70,73,0,Pakistan,770,3,17.2
+388,,,LeJ,2010,166,124,186,0,Pakistan,770,3,17.2
+388,,,LeJ,2011,121,121,152,0,Afghanistan,"700, 770",3,17.2
+388,,,LeJ,2013,311,311,320,0,Pakistan,770,3,17.2
+388,,,LeJ,2014,43,43,43,0,Pakistan,770,3,17.2
+388,,,LeJ,2015,49,49,52,0,Pakistan,770,3,17.2
+392,,,Ranvir Sena,1997,74,74,74,0,India,750,3,17.2
+392,,,Ranvir Sena,1999,46,46,52,0,India,750,3,17.2
+392,,,Ranvir Sena,2000,35,35,35,0,India,750,3,17.2
+393,,,Salafia Jihadia,2003,46,46,46,0,Morocco,600,4,17.2
+395,,,Tawhid wal Jihad,2004,34,34,34,0,Egypt,651,2,17.2
+395,,,Tawhid wal Jihad,2005,88,88,88,0,Egypt,651,2,17.2
+396,,,UPDS,2000,27,27,27,0,India,750,3,17.2
+397,,,VHP,2002,405,382,638,0,India,750,3,17.2
+399,,,Lashkar-e-Islam,2012,29,29,29,0,Pakistan,770,3,17.2
+422,,,AFDL,1996,30110,28854,38404,0,Democratic Republic of the Congo,490,4,17.2
+422,,,AFDL,1997,5016,5016,32241,0,Democratic Republic of the Congo,490,4,17.2
+424,,,RCD,1998,2322,2178,8522,0,Democratic Republic of the Congo,490,4,17.2
+424,,,RCD,1999,1761,1761,1813,0,Democratic Republic of the Congo,490,4,17.2
+424,,,RCD,2000,286,250,584,0,Democratic Republic of the Congo,490,4,17.2
+424,,,RCD,2001,173,173,173,0,Democratic Republic of the Congo,490,4,17.2
+424,,,RCD,2002,646,646,690,0,Democratic Republic of the Congo,490,4,17.2
+424,,,RCD,2003,126,87,130,0,Democratic Republic of the Congo,490,4,17.2
+425,,,RCD-ML ,2001,45,45,45,0,Democratic Republic of the Congo,490,4,17.2
+426,,,CNDP,2007,46,46,47,0,Democratic Republic of the Congo,490,4,17.2
+426,,,CNDP,2008,111,111,194,0,Democratic Republic of the Congo,490,4,17.2
+431,,,CNDD,1996,62,62,70,0,Democratic Republic of the Congo,490,4,17.2
+432,,,Palipehutu-FNL,2002,96,96,98,0,Burundi,"490, 516",4,17.2
+432,,,Palipehutu-FNL,2003,55,55,77,0,Burundi,"490, 516",4,17.2
+432,,,Palipehutu-FNL,2004,210,210,210,0,Burundi,"490, 516",4,17.2
+432,,,Palipehutu-FNL,2005,66,66,66,0,Burundi,516,4,17.2
+432,,,Palipehutu-FNL,2006,36,34,39,0,Burundi,516,4,17.2
+434,,,CNDD-FDD ,2001,58,53,64,0,Burundi,516,4,17.2
+434,,,CNDD-FDD ,2002,97,95,97,0,Burundi,516,4,17.2
+434,,,CNDD-FDD ,2003,90,90,116,0,Burundi,"490, 516",4,17.2
+448,,,CSNPD,1994,124,0,200,0,Chad,483,4,17.2
+451,,,FARF,1997,34,34,34,0,Chad,483,4,17.2
+466,,,SPLM/A,1989,120,120,120,0,Ethiopia,530,4,17.2
+466,,,SPLM/A,1992,161,161,161,0,Sudan,625,4,17.2
+466,,,SPLM/A,1993,460,460,460,0,Democratic Republic of the Congo,"490, 625",4,17.2
+466,,,SPLM/A,1995,147,147,210,0,Sudan,625,4,17.2
+466,,,SPLM/A,1996,210,210,237,0,Sudan,625,4,17.2
+466,,,SPLM/A,1997,146,146,746,0,Sudan,625,4,17.2
+466,,,SPLM/A,1998,60,60,94,0,Sudan,625,4,17.2
+466,,,SPLM/A,2002,25,25,80,0,Sudan,625,4,17.2
+466,,,SPLM/A,2004,33,33,36,0,Sudan,625,4,17.2
+468,,,JEM,2003,69,69,69,0,Sudan,625,4,17.2
+469,,,SLM/A,2005,63,63,87,0,Sudan,625,4,17.2
+471,,,SLM/A - MM,2006,72,72,100,0,Sudan,625,4,17.2
+486,,,UPA,1990,40,40,40,0,Uganda,500,4,17.2
+488,,,LRA,1989,26,26,36,0,Uganda,500,4,17.2
+488,,,LRA,1990,63,63,63,0,Uganda,500,4,17.2
+488,,,LRA,1991,102,102,102,0,Uganda,500,4,17.2
+488,,,LRA,1995,275,275,285,0,Sudan,"500, 625",4,17.2
+488,,,LRA,1996,586,586,666,0,Sudan,"500, 625",4,17.2
+488,,,LRA,1997,452,452,452,0,Sudan,"500, 625",4,17.2
+488,,,LRA,1998,105,105,105,0,Sudan,"500, 625",4,17.2
+488,,,LRA,1999,33,33,56,0,Sudan,"500, 625",4,17.2
+488,,,LRA,2000,94,94,104,0,Sudan,"500, 625",4,17.2
+488,,,LRA,2001,60,60,69,0,Uganda,"500, 625",4,17.2
+488,,,LRA,2002,1054,1054,1077,0,Uganda,"500, 625",4,17.2
+488,,,LRA,2003,635,635,922,0,Uganda,"500, 625",4,17.2
+488,,,LRA,2004,957,916,1050,0,Uganda,"500, 625",4,17.2
+488,,,LRA,2005,304,304,308,0,Uganda,"500, 625",4,17.2
+488,,,LRA,2006,47,47,62,0,Democratic Republic of the Congo,"490, 500, 625",4,17.2
+488,,,LRA,2007,62,62,62,0,Sudan,"500, 625",4,17.2
+488,,,LRA,2008,732,732,1065,0,Central African Republic,"482, 490, 625",4,17.2
+488,,,LRA,2009,1352,1316,1422,0,Central African Republic,"482, 490, 625",4,17.2
+488,,,LRA,2010,434,424,462,0,Central African Republic,"482, 490, 625",4,17.2
+488,,,LRA,2011,145,145,145,0,Central African Republic,"482, 490, 625",4,17.2
+488,,,LRA,2012,64,64,65,0,Central African Republic,"482, 490, 626",4,17.2
+488,,,LRA,2013,45,45,49,0,Central African Republic,"482, 490, 626",4,17.2
+488,,,LRA,2014,37,37,38,0,Central African Republic,"482, 490",4,17.2
+488,,,LRA,2015,27,27,45,0,Central African Republic,"482, 490, 626",4,17.2
+489,,,ADF,1997,144,144,144,0,Uganda,500,4,17.2
+489,,,ADF,1998,208,208,272,0,Uganda,500,4,17.2
+489,,,ADF,1999,268,268,300,0,Uganda,500,4,17.2
+489,,,ADF,2000,84,84,90,0,Uganda,500,4,17.2
+489,,,ADF,2010,38,38,38,0,Democratic Republic of the Congo,490,4,17.2
+489,,,ADF,2013,83,83,83,0,Democratic Republic of the Congo,490,4,17.2
+489,,,ADF,2014,213,213,215,0,Democratic Republic of the Congo,490,4,17.2
+489,,,ADF,2015,236,188,255,0,Democratic Republic of the Congo,490,4,17.2
+489,,,ADF,2016,164,164,181,0,Democratic Republic of the Congo,490,4,17.2
+490,,,WNBF,1996,27,27,27,0,Uganda,500,4,17.2
+497,,,ONLF,2007,82,82,82,0,Ethiopia,530,4,17.2
+498,,,Renamo,1989,435,435,459,0,Mozambique,"541, 551, 552",4,17.2
+498,,,Renamo,1990,228,228,294,0,Zambia,"541, 551, 552",4,17.2
+498,,,Renamo,1991,525,525,557,0,Zimbabwe,541,4,17.2
+498,,,Renamo,1992,212,212,328,0,Mozambique,541,4,17.2
+507,,,NPFL,1990,2011,2011,2243,0,Liberia,450,4,17.2
+507,,,NPFL,1991,271,271,289,0,Sierra Leone,"450, 451",4,17.2
+507,,,NPFL,1992,403,403,559,0,Liberia,"450, 451",4,17.2
+507,,,NPFL,1993,994,994,1218,0,Ivory Coast,"437, 450, 451",4,17.2
+507,,,NPFL,1994,1357,1357,1818,0,Liberia,"437, 450",4,17.2
+507,,,NPFL,1995,1006,1006,1006,0,Liberia,"437, 450",4,17.2
+508,,,INPFL,1990,84,84,84,0,Liberia,450,4,17.2
+509,,,LURD,2002,120,120,120,0,Sierra Leone,"450, 451",4,17.2
+509,,,LURD,2003,418,418,418,0,Liberia,450,4,17.2
+513,,,ANC,1993,40,40,41,0,South Africa,560,4,17.2
+522,,,FIAA,1994,96,96,194,0,Mali,432,4,17.2
+527,,,FPR,1990,52,52,52,0,Rwanda,517,4,17.2
+527,,,FPR,1992,49,49,76,0,Rwanda,517,4,17.2
+527,,,FPR,1993,230,230,230,0,Rwanda,517,4,17.2
+527,,,FPR,1994,992,992,1622,0,Burundi,"516, 517",4,17.2
+528,,,FDLR,2004,66,66,66,0,Democratic Republic of the Congo,490,4,17.2
+528,,,FDLR,2005,31,31,46,0,Democratic Republic of the Congo,490,4,17.2
+528,,,FDLR,2006,46,46,48,0,Democratic Republic of the Congo,"490, 500",4,17.2
+528,,,FDLR,2007,40,40,40,0,Democratic Republic of the Congo,"490, 510",4,17.2
+528,,,FDLR,2008,31,31,44,0,Democratic Republic of the Congo,490,4,17.2
+528,,,FDLR,2009,992,984,1039,0,Democratic Republic of the Congo,490,4,17.2
+528,,,FDLR,2010,70,47,77,0,Democratic Republic of the Congo,490,4,17.2
+528,,,FDLR,2012,187,183,227,0,Democratic Republic of the Congo,490,4,17.2
+528,,,FDLR,2015,52,52,52,0,Democratic Republic of the Congo,490,4,17.2
+529,,,MFDC,1992,51,51,67,0,Senegal,433,4,17.2
+529,,,MFDC,1993,49,49,59,0,Senegal,433,4,17.2
+529,,,MFDC,1995,25,25,29,0,Senegal,433,4,17.2
+529,,,MFDC,1997,39,39,43,0,Senegal,433,4,17.2
+529,,,MFDC,1998,57,57,57,0,Senegal,433,4,17.2
+532,,,RUF,1991,604,604,615,0,Sierra Leone,451,4,17.2
+532,,,RUF,1992,289,289,319,0,Sierra Leone,451,4,17.2
+532,,,RUF,1993,202,202,209,0,Sierra Leone,451,4,17.2
+532,,,RUF,1994,1390,1390,1967,0,Sierra Leone,451,4,17.2
+532,,,RUF,1995,1645,1645,2560,0,Sierra Leone,451,4,17.2
+532,,,RUF,1996,350,350,588,0,Sierra Leone,451,4,17.2
+532,,,RUF,1997,125,125,245,0,Sierra Leone,451,4,17.2
+532,,,RUF,1998,650,650,673,0,Guinea,"438, 451",4,17.2
+532,,,RUF,1999,232,232,232,0,Guinea,"438, 451",4,17.2
+532,,,RUF,2000,476,476,476,0,Sierra Leone,"438, 451",4,17.2
+533,,,AFRC,1998,1132,1132,1164,0,Sierra Leone,"438, 451",4,17.2
+533,,,AFRC,1999,933,933,3829,0,Sierra Leone,451,4,17.2
+534,,,Kamajors,1995,37,37,37,0,Sierra Leone,451,4,17.2
+538,,,GIA,1993,26,26,26,0,Algeria,615,4,17.2
+538,,,GIA,1997,355,160,1117,0,Algeria,615,4,17.2
+538,,,GIA,1998,129,129,629,0,Algeria,615,4,17.2
+538,,,GIA,1999,125,125,179,0,Algeria,615,4,17.2
+538,,,GIA,2000,245,245,248,0,Algeria,615,4,17.2
+538,,,GIA,2001,32,32,32,0,Algeria,615,4,17.2
+538,,,GIA,2002,526,524,543,0,Algeria,615,4,17.2
+538,,,GIA,2003,34,34,34,0,Algeria,615,4,17.2
+539,,,AQIM,2004,87,87,95,0,Algeria,615,4,17.2
+539,,,AQIM,2006,37,37,39,0,Algeria,615,4,17.2
+539,,,AQIM,2009,38,36,42,0,Mauritania,"432, 435, 615",4,17.2
+539,,,AQIM,2016,39,39,45,0,Burkina Faso,"432, 437, 439",4,17.2
+545,,,Cobras,1997,39,39,39,0,Republic of the Congo,484,4,17.2
+548,,,Ntsiloulous,1998,58,58,94,0,Republic of the Congo,484,4,17.2
+548,,,Ntsiloulous,2002,58,58,80,0,Republic of the Congo,484,4,17.2
+556,,,MPCI,2002,103,103,103,0,Ivory Coast,437,4,17.2
+556,,,MPCI,2003,50,50,100,0,Ivory Coast,437,4,17.2
+557,,,MPIGO,2003,65,65,67,0,Ivory Coast,437,4,17.2
+558,,,FRCI,2011,49,49,49,0,Ivory Coast,437,4,17.2
+567,,,UNITA,1989,63,63,307,0,Angola,540,4,17.2
+567,,,UNITA,1990,51,51,157,0,Angola,540,4,17.2
+567,,,UNITA,1993,343,343,1941,0,Angola,540,4,17.2
+567,,,UNITA,1994,35,35,365,0,Namibia,"540, 565",4,17.2
+567,,,UNITA,1995,47,47,488,0,Angola,540,4,17.2
+567,,,UNITA,1998,64,64,607,0,Angola,540,4,17.2
+567,,,UNITA,1999,393,393,508,0,Angola,540,4,17.2
+567,,,UNITA,2000,267,267,641,0,Angola,"540, 551, 565",4,17.2
+567,,,UNITA,2001,1029,1029,1230,0,Angola,540,4,17.2
+567,,,UNITA,2002,55,51,120,0,Angola,"540, 565",4,17.2
+586,,,AWB,1994,39,39,39,0,South Africa,560,4,17.2
+588,,,Bakassi boys,2000,31,31,31,0,Nigeria,475,4,17.2
+588,,,Bakassi boys,2005,32,32,35,0,Nigeria,475,4,17.2
+603,,,FAPC,2004,28,28,28,0,Democratic Republic of the Congo,490,4,17.2
+606,,,FNI,2002,348,348,348,0,Democratic Republic of the Congo,490,4,17.2
+606,,,FNI,2003,1732,1409,2337,0,Democratic Republic of the Congo,490,4,17.2
+606,,,FNI,2004,200,100,200,0,Democratic Republic of the Congo,490,4,17.2
+606,,,FNI,2005,55,55,55,0,Democratic Republic of the Congo,490,4,17.2
+619,,,Hutu rebels,1995,158,153,447,0,Burundi,516,4,17.2
+619,,,Hutu rebels,1996,600,571,1085,0,Burundi,516,4,17.2
+619,,,Hutu rebels,1997,453,453,568,0,Burundi,516,4,17.2
+619,,,Hutu rebels,1998,428,283,655,0,Burundi,516,4,17.2
+619,,,Hutu rebels,1999,263,258,388,0,Burundi,516,4,17.2
+619,,,Hutu rebels,2000,234,234,285,0,Burundi,516,4,17.2
+623,,,"Interahamwe, ex-FAR",1994,77,77,203,0,Rwanda,"490, 516, 517",4,17.2
+630,,,Janjaweed ,2001,140,140,140,0,Sudan,625,4,17.2
+630,,,Janjaweed ,2002,28,28,188,0,Chad,"483, 625",4,17.2
+630,,,Janjaweed ,2003,1064,1064,12733,0,Sudan,625,4,17.2
+630,,,Janjaweed ,2004,693,693,15215,0,Chad,"483, 625",4,17.2
+630,,,Janjaweed ,2005,350,350,505,0,Chad,"483, 625",4,17.2
+630,,,Janjaweed ,2006,899,895,1473,0,Chad,"483, 625",4,17.2
+630,,,Janjaweed ,2007,303,303,514,0,"Central African Republic, Chad, Sudan","482, 483, 625",4,17.2
+630,,,Janjaweed ,2008,60,60,99,0,Sudan,625,4,17.2
+630,,,Janjaweed ,2010,41,41,70,0,Sudan,625,4,17.2
+639,,,LPC,1993,53,53,53,0,Liberia,450,4,17.2
+639,,,LPC,1994,1165,1165,1512,0,Liberia,450,4,17.2
+639,,,LPC,1995,1003,1003,1003,0,Liberia,450,4,17.2
+645,,,Mayi Mayi - Chinja Chinja,2004,130,75,130,0,Democratic Republic of the Congo,490,4,17.2
+645,,,Mayi Mayi - Chinja Chinja,2005,37,28,37,0,Democratic Republic of the Congo,490,4,17.2
+648,,,Mayi Mayi,1999,167,167,167,0,Democratic Republic of the Congo,490,4,17.2
+648,,,Mayi Mayi,2000,63,63,63,0,Democratic Republic of the Congo,490,4,17.2
+648,,,Mayi Mayi,2002,74,74,74,0,Democratic Republic of the Congo,490,4,17.2
+648,,,Mayi Mayi,2007,31,31,31,0,Democratic Republic of the Congo,490,4,17.2
+649,,,MFDC - FN,2002,25,25,26,0,Senegal,433,4,17.2
+659,,,Mayi Mayi - Ngilima ,1996,50,50,60,0,Democratic Republic of the Congo,490,4,17.2
+665,,,PAC,1993,47,47,47,0,South Africa,560,4,17.2
+672,,,Rastas,2005,139,139,171,0,Democratic Republic of the Congo,490,4,17.2
+672,,,Rastas,2007,29,18,33,0,Democratic Republic of the Congo,490,4,17.2
+674,,,RCD - LN,2004,139,139,270,0,Democratic Republic of the Congo,490,4,17.2
+678,,,RRA,1999,37,37,37,0,Somalia,520,4,17.2
+679,,,RTC,1989,170,170,170,0,Chad,483,4,17.2
+686,,,SSDF,1991,2000,2000,2000,0,Sudan,625,4,17.2
+686,,,SSDF,1992,271,271,271,0,Sudan,625,4,17.2
+686,,,SSDF,1993,36,36,90,0,Sudan,625,4,17.2
+695,,,ULIMO - J,1995,52,52,52,0,Liberia,450,4,17.2
+695,,,ULIMO - J,1996,1025,1025,1025,0,Liberia,450,4,17.2
+696,,,ULIMO - K,1994,1148,1148,1148,0,Liberia,450,4,17.2
+696,,,ULIMO - K,1995,211,211,250,0,Liberia,450,4,17.2
+696,,,ULIMO - K,1996,71,71,71,0,Guinea,"438, 450",4,17.2
+697,,,ULIMO,1993,1272,1272,1272,0,Liberia,"450, 451",4,17.2
+704,,,SLDF,2007,53,53,107,0,Kenya,501,4,17.2
+704,,,SLDF,2008,51,51,51,0,Kenya,501,4,17.2
+714,,,Mungiki,2007,40,40,40,0,Kenya,501,4,17.2
+714,,,Mungiki,2008,29,29,32,0,Kenya,501,4,17.2
+714,,,Mungiki,2009,37,37,67,0,Kenya,501,4,17.2
+715,,,MPGK ,1994,246,246,271,0,Mali,432,4,17.2
+717,,,Al-Shabaab,2008,43,34,47,0,Somalia,520,4,17.2
+717,,,Al-Shabaab,2010,88,86,95,0,Somalia,"500, 520",4,17.2
+717,,,Al-Shabaab,2011,44,35,56,0,Somalia,"501, 520",4,17.2
+717,,,Al-Shabaab,2012,112,100,153,0,Kenya,"501, 520",4,17.2
+717,,,Al-Shabaab,2013,185,145,209,0,Kenya,"501, 520",4,17.2
+717,,,Al-Shabaab,2014,274,209,325,0,Djibouti,"501, 520, 522",4,17.2
+717,,,Al-Shabaab,2015,207,198,207,0,Somalia,"501, 520",4,17.2
+717,,,Al-Shabaab,2016,109,99,123,0,Somalia,"501, 520",4,17.2
+743,,,FARC,1994,39,39,39,0,Colombia,100,5,17.2
+743,,,FARC,1995,37,37,38,0,Colombia,100,5,17.2
+743,,,FARC,1996,39,28,47,0,Colombia,100,5,17.2
+743,,,FARC,1997,35,35,41,0,Colombia,100,5,17.2
+743,,,FARC,1998,39,39,39,0,Colombia,100,5,17.2
+743,,,FARC,1999,79,79,81,0,Colombia,100,5,17.2
+743,,,FARC,2000,106,106,125,0,Colombia,100,5,17.2
+743,,,FARC,2001,145,145,280,0,Colombia,100,5,17.2
+743,,,FARC,2002,202,117,260,0,Colombia,100,5,17.2
+743,,,FARC,2003,153,152,161,0,Colombia,100,5,17.2
+743,,,FARC,2004,130,130,149,0,Colombia,100,5,17.2
+743,,,FARC,2005,57,57,62,0,Colombia,100,5,17.2
+743,,,FARC,2006,59,59,73,0,Colombia,100,5,17.2
+743,,,FARC,2008,27,27,27,0,Colombia,100,5,17.2
+743,,,FARC,2009,30,30,49,0,Colombia,100,5,17.2
+744,,,ELN,1998,88,88,88,0,Colombia,100,5,17.2
+744,,,ELN,2000,28,28,29,0,Colombia,100,5,17.2
+744,,,ELN,2003,30,29,30,0,Colombia,100,5,17.2
+750,,,Sendero Luminoso,1989,90,90,116,0,Peru,135,5,17.2
+750,,,Sendero Luminoso,1990,123,123,177,0,Peru,135,5,17.2
+750,,,Sendero Luminoso,1991,146,146,802,0,Peru,135,5,17.2
+750,,,Sendero Luminoso,1992,139,139,895,0,Peru,135,5,17.2
+750,,,Sendero Luminoso,1993,107,107,364,0,Peru,135,5,17.2
+769,,,al-Qaida ,2001,2753,2753,2753,0,United States,2,5,17.2
+769,,,al-Qaida ,2003,26,26,43,0,Saudi Arabia,670,2,17.2
+769,,,al-Qaida ,2004,33,33,35,0,Saudi Arabia,670,2,17.2
+769,,,al-Qaida ,2005,52,52,54,0,United Kingdom,"200, 770","3, 1",17.2
+771,,,AUC,1989,28,28,28,0,Colombia,100,5,17.2
+771,,,AUC,1990,58,58,58,0,Colombia,100,5,17.2
+771,,,AUC,1995,62,62,62,0,Colombia,100,5,17.2
+771,,,AUC,1996,159,159,163,0,Colombia,100,5,17.2
+771,,,AUC,1997,214,212,246,0,Colombia,100,5,17.2
+771,,,AUC,1998,379,379,426,0,Colombia,100,5,17.2
+771,,,AUC,1999,478,473,533,0,Colombia,100,5,17.2
+771,,,AUC,2000,551,549,656,0,Colombia,100,5,17.2
+771,,,AUC,2001,603,590,640,0,Colombia,100,5,17.2
+771,,,AUC,2002,334,267,708,0,Colombia,100,5,17.2
+771,,,AUC,2003,149,149,160,0,Colombia,100,5,17.2
+771,,,AUC,2004,142,131,163,0,Colombia,100,5,17.2
+771,,,AUC,2005,38,38,38,0,Colombia,100,5,17.2
+774,,,Medellín Cartel,1989,114,114,121,0,Colombia,100,5,17.2
+774,,,Medellín Cartel,1993,40,40,40,0,Colombia,100,5,17.2
+778,,,Mara Salvatrucha (Honduras),2004,28,28,31,0,Honduras,91,5,17.2
+779,,,Paz y Justicia,1997,45,45,45,0,Mexico,70,5,17.2
+882,,,Ampatuan militia,2009,57,57,57,0,Philippines,840,3,17.2
+883,,,DHD,2005,79,54,84,0,India,750,3,17.2
+884,,,KRA,2004,34,34,43,0,India,750,3,17.2
+885,,,HPC,2003,28,28,28,0,India,750,3,17.2
+886,,,AAH,2009,35,35,35,0,Iraq,645,2,17.2
+896,,,PARECO,2008,41,41,41,0,Democratic Republic of the Congo,490,4,17.2
+974,,,SPM/SNA ,1992,90,90,90,0,Somalia,520,4,17.2
+1043,,,RCD - CP ,2004,30,30,30,0,Democratic Republic of the Congo,490,4,17.2
+1045,,,Buxton gang,2008,29,29,30,0,Guyana,110,5,17.2
+1046,,,Fedayeen Islam,2008,54,54,54,0,Pakistan,770,3,17.2
+1047,,,Indian Mujahideen,2005,78,78,79,0,India,750,3,17.2
+1047,,,Indian Mujahideen,2006,205,205,210,0,India,750,3,17.2
+1047,,,Indian Mujahideen,2008,136,22,136,0,India,750,3,17.2
+1047,,,Indian Mujahideen,2011,26,26,26,0,India,750,3,17.2
+1051,,,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad,2010,92,87,103,0,Nigeria,475,4,17.2
+1051,,,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad,2011,82,78,192,0,Nigeria,475,4,17.2
+1051,,,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad,2012,457,279,515,0,Nigeria,475,4,17.2
+1051,,,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad,2013,839,813,1028,0,Cameroon,"471, 475",4,17.2
+1051,,,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad,2014,5124,5023,6487,0,Nigeria,"471, 475, 483",4,17.2
+1051,,,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad,2015,1282,1269,1681,0,Nigeria,"436, 471, 475, 483",4,17.2
+1051,,,Jama'atu Ahlis Sunna Lidda'awati wal-Jihad,2016,193,193,210,0,Cameroon,"471, 475",4,17.2
+1066,,,NDFB - RD,2010,32,30,32,0,India,750,3,17.2
+1070,,,Lashkar-e-Taiba,2003,54,54,54,0,India,750,3,17.2
+1070,,,Lashkar-e-Taiba,2007,68,0,68,0,India,750,3,17.2
+1070,,,Lashkar-e-Taiba,2008,148,148,148,0,India,750,3,17.2
+1076,,,UPC,2002,1894,1768,2541,0,Democratic Republic of the Congo,490,4,17.2
+1076,,,UPC,2003,475,475,525,0,Democratic Republic of the Congo,490,4,17.2
+1077,,,FRPI,2002,164,164,164,0,Democratic Republic of the Congo,490,4,17.2
+1077,,,FRPI,2004,29,29,152,0,Democratic Republic of the Congo,490,4,17.2
+1077,,,FRPI,2012,31,31,31,0,Democratic Republic of the Congo,490,4,17.2
+1088,,,Los Zetas,2010,86,86,86,0,Mexico,70,5,17.2
+1088,,,Los Zetas,2011,268,268,281,0,Guatemala,"70, 90",5,17.2
+1104,,,Laskar Jihad,2000,98,98,98,0,Indonesia,850,3,17.2
+1114,,,Mayi Mayi Complet,2010,27,27,27,0,Democratic Republic of the Congo,490,4,17.2
+1116,,,LDF,1993,269,269,269,0,Liberia,450,4,17.2
+1117,,,IFP,1993,67,67,68,0,South Africa,560,4,17.2
+1128,,,ALiR,1996,1171,650,5214,0,Rwanda,"490, 517",4,17.2
+1128,,,ALiR,1997,809,805,2313,0,Rwanda,"490, 516, 517",4,17.2
+1128,,,ALiR,1998,1079,1077,1141,0,Rwanda,"490, 516, 517",4,17.2
+1128,,,ALiR,1999,51,43,61,0,Democratic Republic of the Congo,"490, 500, 517",4,17.2
+1128,,,ALiR,2000,73,72,73,0,Democratic Republic of the Congo,490,4,17.2
+1131,,,AJPSN,2011,52,52,54,0,Ivory Coast,437,4,17.2
+1159,,,Seleka,2013,43,43,43,0,Central African Republic,482,4,17.2
+1160,,,M23,2013,32,32,32,0,Democratic Republic of the Congo,490,4,17.2
+1185,,,PCPA,2010,146,146,146,0,India,750,3,17.2
+1186,,,PFT,1992,50,50,50,0,Tajikistan,702,3,17.2
+1187,,,PLFI,2012,105,102,105,0,India,750,3,17.2
+1193,,,FNDIC,2003,53,53,79,0,Nigeria,475,4,17.2
+1198,,,Mayi Mayi Simba,2012,34,34,104,0,Democratic Republic of the Congo,490,4,17.2
+1199,,,Raia Mutomboki,2012,43,43,43,0,Democratic Republic of the Congo,490,4,17.2
+1218,,,JMB,2004,25,23,53,0,Bangladesh,771,3,17.2
+1645,,,FDPC,2015,39,39,39,0,Central African Republic,482,4,17.2
+2034,,,TAK,2016,37,37,37,0,Turkey,640,2,17.2
+2933,,,Al-Khobar,2007,31,31,31,0,Philippines,840,3,17.2
+3037,,,NDC,2013,92,92,92,0,Democratic Republic of the Congo,490,4,17.2
+3040,,,Nyatura,2013,37,37,37,0,Democratic Republic of the Congo,490,4,17.2
+3047,,,TTP-Islahi,2012,42,42,42,0,Pakistan,770,3,17.2
+3192,,,UBA,2014,43,43,43,0,Pakistan,770,3,17.2
+3481,,,Signed-in-Blood Battalion,2013,26,26,26,0,Algeria,615,4,17.2
+3554,,,FPR-BL,2014,99,99,99,0,Central African Republic,482,4,17.2
+3845,,"423, 653","MLC, RCD-N",2002,185,173,185,0,Democratic Republic of the Congo,490,4,17.2
+3846,,"606, 1077, 789","FNI, FRPI, RCD-K-ML ",2003,160,80,160,0,Democratic Republic of the Congo,490,4,17.2
+3847,,"606, 1077","FNI, FRPI",2003,325,265,415,0,Democratic Republic of the Congo,490,4,17.2
+3848,,"1077, 789","FRPI, RCD-K-ML ",2002,1200,1200,3000,0,Democratic Republic of the Congo,490,4,17.2
+3851,,"423, 1076, 653","MLC, RCD-N, UPC",2002,50,50,50,0,Democratic Republic of the Congo,490,4,17.2
+3859,,"603, 606","FAPC, FNI",2003,33,33,33,0,Democratic Republic of the Congo,490,4,17.2
+3861,,"623, 1044","Interahamwe, ex-FAR, MAGRIVI ",1996,315,209,984,0,Democratic Republic of the Congo,490,4,17.2
+3864,,"371, 339","Serbian irregulars, Serbian Republic of Bosnia-Herzegovina",1992,3580,3580,3720,0,"Bosnia-Herzegovina, Serbia (Yugoslavia)","345, 346",1,17.2
+3864,,"371, 339","Serbian irregulars, Serbian Republic of Bosnia-Herzegovina",1993,218,218,298,0,Bosnia-Herzegovina,346,1,17.2
+3864,,"371, 339","Serbian irregulars, Serbian Republic of Bosnia-Herzegovina",1994,296,296,398,0,Bosnia-Herzegovina,346,1,17.2
+3864,,"371, 339","Serbian irregulars, Serbian Republic of Bosnia-Herzegovina",1995,8360,8360,8472,0,Serbia,"345, 346",1,17.2
+3967,,,Kata Katanga,2013,173,173,174,0,Democratic Republic of the Congo,490,4,17.2
+4007,,,FPRC,2013,464,464,465,0,Central African Republic,482,4,17.2
+4007,,,FPRC,2014,672,664,709,0,Central African Republic,482,4,17.2
+4007,,,FPRC,2015,153,153,153,0,Central African Republic,482,4,17.2
+4007,,,FPRC,2016,41,41,41,0,Central African Republic,482,4,17.2
+4149,,"1199, 4148","Mayi Mayi Kifuafua, Raia Mutomboki",2012,241,241,241,0,Democratic Republic of the Congo,490,4,17.2
+4163,,,PYD,2013,28,28,28,0,Syria,652,2,17.2
+4163,,,PYD,2014,85,85,95,0,Syria,652,2,17.2
+4201,,,anti-Balaka,2013,685,648,708,0,Central African Republic,482,4,17.2
+4201,,,anti-Balaka,2014,1005,955,1050,0,Central African Republic,482,4,17.2
+4201,,,anti-Balaka,2015,57,57,57,0,Central African Republic,482,4,17.2
+4226,,,SPLM/A In Opposition,2013,103,103,128,0,South Sudan,626,4,17.2
+4226,,,SPLM/A In Opposition,2014,582,582,676,0,South Sudan,626,4,17.2
+4226,,,SPLM/A In Opposition,2016,41,41,41,0,South Sudan,626,4,17.2
+4233,,,ADP,2013,47,47,47,0,Lebanon,660,2,17.2
+4340,,,UDA,1993,32,32,32,0,United Kingdom,200,1,17.2
+4456,,,Syrian insurgents,2012,93,93,156,0,Syria,652,2,17.2
+4456,,,Syrian insurgents,2013,405,240,452,0,Syria,652,2,17.2
+4456,,,Syrian insurgents,2014,73,73,74,0,Syria,652,2,17.2
+4456,,,Syrian insurgents,2015,111,111,127,0,Syria,652,2,17.2
+4456,,,Syrian insurgents,2016,29,29,30,0,Syria,652,2,17.2
+5546,,,Al-Umma,1998,58,58,58,0,India,750,3,17.2
+5659,,,al-Mahdi Army,2006,54,28,147,0,Iraq,645,2,17.2
+5659,,,al-Mahdi Army,2007,70,67,83,0,Iraq,645,2,17.2
+5826,,,NDFB-S,2014,135,16,178,0,India,750,3,17.2
+5895,,,Jaish-ul-Islam,2014,35,35,35,0,Pakistan,770,3,17.2
+5997,,,Mayi Mayi - Makabe,2002,25,25,25,0,Democratic Republic of the Congo,490,4,17.2
+5997,,,Mayi Mayi - Makabe,2003,25,25,25,0,Democratic Republic of the Congo,490,4,17.2
+5999,,,UPC (Ali Darass Fulani supporters),2014,171,171,191,0,Central African Republic,482,4,17.2
+5999,,,UPC (Ali Darass Fulani supporters),2015,83,83,83,0,Central African Republic,482,4,17.2
+5999,,,UPC (Ali Darass Fulani supporters),2016,58,58,58,0,Central African Republic,482,4,17.2
+6185,,,Elements (Luba militia),2015,34,34,34,0,Democratic Republic of the Congo,490,4,17.2
+6186,,,Perci (Batwa militia),2015,47,47,47,0,Democratic Republic of the Congo,490,4,17.2
+6506,,,Bloque Central Bolívar,2002,26,26,26,0,Colombia,100,5,17.2
+6579,,,MAS,1991,39,39,39,0,Colombia,100,5,17.2
+6587,,,UPDI-Mazembe,2016,73,73,73,0,Democratic Republic of the Congo,490,4,17.2
+6641,,,3R,2016,50,50,50,0,Central African Republic,482,4,17.2
+6699,,"4007, 6354","FPRC, MPC (Al Khatim rebels)",2016,37,37,37,0,Central African Republic,482,4,17.2
+6802,,"6801, 489","ADF, Mayi Mayi Mayangose",2014,119,99,239,0,Democratic Republic of the Congo,490,4,17.2
+6807,,"489, 6806","ADF, Vuba militia",2016,31,31,31,0,Democratic Republic of the Congo,490,4,17.2
