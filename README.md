@@ -1,6 +1,6 @@
 # An Integrated Machine Learning Approach to Studying Terrorism
 
-This project investigates an integrated machine learning ap-proach for classification and analysis of global terrorist activity. 
+This project investigates an integrated machine learning approach for classification and analysis of global terrorist activity. 
 
 In this project, I aim to make the following three contributions: 
 1) exploration of supervised machine learning approaches as a novel technique in the study of terrorist activity;
@@ -9,4 +9,4 @@ In this project, I aim to make the following three contributions:
 
 Using this new dataset, a random forest model was trained that classifies the actor responsible for an identified incident with up to 68% accuracy. 
 
-This project makes no claim on the ability to forecast or predict future terrorist activity—rather, it is in-tended to highlight the importance of a machine learning approach that, when integrated with domain-area expertise, can augment study of complex social issues.
+This project makes no claim on the ability to forecast or predict future terrorist activity. Rather, it is intended to highlight the importance of a machine learning approach that, when integrated with domain-area expertise, can augment study of complex social issues.
